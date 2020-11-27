@@ -155,9 +155,7 @@ pre {
   animation: slideInFromBottom 1s ease-in;
 }
 
-.stats-heading {
-  max-width: 500px;
-  margin: auto;
+.stats-heading { text-align: center;
 }
 
 .stats .grid h3 {
