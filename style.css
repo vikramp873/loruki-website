@@ -503,14 +503,5 @@ pre {
     text-align: center;
     margin-top: 40px;
   }
-  .showcase-form {
-    position: relative;
-    top: 60px;
-    height: 400px;
-    width: 300px;
-    padding: 40px;
-    z-index: 100;
-    justify-self: flex-end;
-    animation: 1s ease-in;
-  }
+  
 }
